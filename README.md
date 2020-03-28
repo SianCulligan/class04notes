@@ -3,6 +3,7 @@ LAB - Class 04
 Project Name: Lab 04 Notes App
 
 Author: Sian Culligan
+
 Links and Resources
 - https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/
 - https://www.youtube.com/watch?v=Xkfo17-YPP0
@@ -13,29 +14,18 @@ Links and Resources
 
 
 submission PR
-ci/cd (GitHub Actions)
-back-end server url (when applicable)
-front-end application (when applicable)
-Setup
-.env requirements (where applicable)
-i.e.
+- https://github.com/SianCulligan/class04notes/pull/3
 
-PORT - Port Number
+
 MONGODB_URI - URL to the running mongo instance/db
-
+- mongodb+srv://sian:seattle1234@noteslab-zzafb.mongodb.net/notesLab
 
 How to initialize/run your application (where applicable)
-e.g. npm start
-
-How to use your library (where applicable)
-Tests
+node index.js
 
 How do you run tests?
+npm test notes-model.test,js
 
-Any tests of note?
-
-Describe any tests that you did not complete, skipped, etc
-UML
-
-Link to an image of the UML for your application and response to events
+Any tests of note? Describe any tests that you did not complete, skipped, etc
+- Still having problems with tests stemming from the functions. Need to get some help with these - I tried really hard and read a lot of docs. Need to get some direction!
 
