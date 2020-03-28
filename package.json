@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/SianCulligan/class04notes/issues"
   },
-  "homepage": "https://github.com/SianCulligan/class04notes#readme"
+  "homepage": "https://github.com/SianCulligan/class04notes#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.2",
+    "jest": "^25.2.3",
+    "mongoose": "^5.9.6"
+  }
 }

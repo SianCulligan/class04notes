@@ -4,6 +4,13 @@ Project Name: Lab 04 Notes App
 
 Author: Sian Culligan
 Links and Resources
+- https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/
+- https://www.youtube.com/watch?v=Xkfo17-YPP0
+- https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e
+- https://kb.objectrocket.com/mongo-db/mongoose-deleteone-922
+- https://docs.mongodb.com/manual/reference/method/db.collection.deleteOne/
+- https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndUpdate/
+
 
 submission PR
 ci/cd (GitHub Actions)
@@ -15,6 +22,7 @@ i.e.
 
 PORT - Port Number
 MONGODB_URI - URL to the running mongo instance/db
+
 
 How to initialize/run your application (where applicable)
 e.g. npm start
